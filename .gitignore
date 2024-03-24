@@ -1,0 +1,14 @@
+**/__pycache__/
+modules/reports/cache_chrome/
+modules/reports/files/
+virtual/
+dist/
+temp/
+CachTets/
+*.pyc
+*.csv
+*.pdf
+*.xlsx
+*.img
+*.log
+*.json
