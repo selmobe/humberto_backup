@@ -1,3 +1,1 @@
 "# SPX_SISTEM" 
-"# SPX_SISTEM"  
-"# SPX_SISTEM" 
